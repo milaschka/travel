@@ -150,7 +150,7 @@ img {
   position: relative;
 }
 .perotravel .swiper-slide img:hover {
-  content: url("./hover.png");
+  content: url("../src/img/hover.png");
   width: 66px;
   height: 66px;
   position: absolute;
